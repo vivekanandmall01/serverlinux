@@ -1,0 +1,4 @@
+baseURL = 'https://serverlinux.in/'
+languageCode = 'en-us'
+title = 'Serverlinux'
+theme = 'hugo-theme-relearn'
